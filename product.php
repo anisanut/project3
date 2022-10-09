@@ -11,9 +11,12 @@
     <?php
       include "navbar.php";
     ?>
+    <div class = "container">
+
+    
     <h1>สินค้า</h1>
 
-
+    </div>
     
 </body>
 </html>

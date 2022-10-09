@@ -10,11 +10,12 @@
 </head>
 
 <body >
- 
-    
+     
     <?php
        include "navbar.php";
     ?>
+    <div class="container">
+    
 <h1 class="abc"> ยินดีต้อนรับเข้าสู่เว็บไซต์ </h1>
 
     <p class="border bg-white">
@@ -23,9 +24,8 @@
         กรุงเทพมหานคร (ดินแดง1)
     </p>
 
-    <?php
-      include "hello.php";
-    ?>
+    </div>
+  
 
 </body>
 

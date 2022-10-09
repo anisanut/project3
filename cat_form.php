@@ -12,6 +12,10 @@
       include "navbar.php";
     ?>
 
+    <div class="container">
+
+    
+
     <form action="cat_insert.php" method="post"  enctype="multipart/form-data">
        ประเภทสินค้า <input type="text" name="catname" /> <br/>
        แทรกรูป 
@@ -19,6 +23,6 @@
        <input type="submit" value="บึกทึกข้อมูล" />
     </form>
 
-    
+    </div>
 </body>
 </html>

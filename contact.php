@@ -14,6 +14,8 @@
     <?php
       include "navbar.php";
     ?>
+    <div class="container">
+    
     <h1 class="abc">ติดต่อเรา</h1>
 
     <iframe
@@ -21,7 +23,7 @@
         width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
         referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-
+      </div>
 </body>
 
 </html>

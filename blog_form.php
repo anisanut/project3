@@ -13,6 +13,10 @@
     <?php
        include "navbar.php";
     ?>
+
+    <div class="container">
+
+    
     <h1>Blogs</h1>
     <form action="blog_insert.php"  method="post" enctype="multipart/form-data" >
        หัวเรื่อง <input type="text" name="title" /> <br/>
@@ -21,6 +25,7 @@
        <input type="submit" value="บันทึก" />
     </form>
 
+    </div>
 </body>
 
 </html>

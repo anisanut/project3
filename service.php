@@ -7,11 +7,18 @@
     <title>บริการ</title>
     <link rel="stylesheet" href="./script/style.css" />
 </head>
-<body class="bgimg">
+<body >
    
     <?php
       include "navbar.php";
     ?>
-    <h1>ให้บริการ </h1>
+
+    <div class="container">
+
+
+    
+  <h1>ให้บริการ </h1>
+  </div>
+
 </body>
 </html>
